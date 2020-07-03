@@ -7,11 +7,4 @@ class Dog
     @breed=breed
   end 
   
-  def breed
-    if @breed 
-      return @breed
-    else
-      return "Mutt"
-    end 
-  end 
-end 
+  
